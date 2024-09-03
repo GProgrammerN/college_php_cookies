@@ -1,0 +1,20 @@
+body{
+    margin: 20px;
+}
+
+.area{
+    padding: 0px 15px;
+
+    h3{
+        color: blue;
+    }
+}
+
+.rodape{
+    padding: 0px 15px;
+    background-color: green;
+}
+
+.navbar{
+    background-color: green;
+}
